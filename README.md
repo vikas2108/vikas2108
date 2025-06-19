@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Did the Graduation from the PES University
+- 🎓 &nbsp; Did Graduation from the PES University
 - 💼 &nbsp; Working as a Specialist Programmer at Infosys.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 
